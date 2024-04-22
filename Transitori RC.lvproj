@@ -18,6 +18,7 @@
 		<Item Name="save_xy_cluster.vi" Type="VI" URL="../save_xy_cluster.vi"/>
 		<Item Name="States.ctl" Type="VI" URL="../States.ctl"/>
 		<Item Name="SubVI-Config-AI.vi" Type="VI" URL="../SubVI-Config-AI.vi"/>
+		<Item Name="Sweep.ctl" Type="VI" URL="../Sweep.ctl"/>
 		<Item Name="Timing Params.ctl" Type="VI" URL="../Timing Params.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
