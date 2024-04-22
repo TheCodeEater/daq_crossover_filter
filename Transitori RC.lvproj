@@ -13,12 +13,15 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Channel_choiche.ctl" Type="VI" URL="../Channel_choiche.ctl"/>
 		<Item Name="Channels.ctl" Type="VI" URL="../Channels.ctl"/>
+		<Item Name="frequency_analysis.vi" Type="VI" URL="../frequency_analysis.vi"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
+		<Item Name="phase_analysis.vi" Type="VI" URL="../phase_analysis.vi"/>
 		<Item Name="Save_data.vi" Type="VI" URL="../Save_data.vi"/>
 		<Item Name="save_xy_cluster.vi" Type="VI" URL="../save_xy_cluster.vi"/>
 		<Item Name="States.ctl" Type="VI" URL="../States.ctl"/>
 		<Item Name="SubVI-Config-AI.vi" Type="VI" URL="../SubVI-Config-AI.vi"/>
 		<Item Name="Sweep.ctl" Type="VI" URL="../Sweep.ctl"/>
+		<Item Name="sweep_setup.vi" Type="VI" URL="../sweep_setup.vi"/>
 		<Item Name="Timing Params.ctl" Type="VI" URL="../Timing Params.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
