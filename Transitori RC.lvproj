@@ -11,6 +11,9 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="Test" Type="Folder">
+			<Item Name="test_fit.vi" Type="VI" URL="../test_fit.vi"/>
+		</Item>
 		<Item Name="Channel_choiche.ctl" Type="VI" URL="../Channel_choiche.ctl"/>
 		<Item Name="Channels.ctl" Type="VI" URL="../Channels.ctl"/>
 		<Item Name="frequency_analysis.vi" Type="VI" URL="../frequency_analysis.vi"/>
