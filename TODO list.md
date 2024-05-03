@@ -14,8 +14,11 @@ $$V = \frac{R}{R + Rg} 0.5$$
 Con l'elvis, non cè molto da dire
 
 
+
+
 ## Acquisire dati
 Ampiezza, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDA5MzExMTZdfQ==
+eyJoaXN0b3J5IjpbLTE1MTgyOTUzMDQsLTE2NDA5MzExMTZdfQ
+==
 -->
