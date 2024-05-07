@@ -8,7 +8,7 @@ $$Rg = R \left( \frac{ddp}{V} - 1 \right)$$
 
 ## Settle time per acquisizione multichannel
 Generare un'onda ***sinusoidale*** a 20kHz e acquisire 100 punti su 2 canali a 450kS/s per 1000 volte
-sottraendo le fasi delle due sinusoidi ottenute ottengo l'angolo di sfasamento $\phi = 2 \pi \omega$, dato che l'odnda oscilla con frequenza $\nu$, $\phi$
+sottraendo le fasi delle due sinusoidi ottenute ottengo l'angolo di sfasamento $\phi = \omega \cdot t_s$, dato che l'odnda oscilla con frequenza $\nu$, $\phi= 2 \pi \nu \cdot t_s$ e quindi $t_s = 
 
 ## Controllare ddp
 Confermare che il parametro *amplitude* sia effettivamente Vpp, stessa resistenza di prima, se *amplitude*  = 1 mi aspetto $ddp = 0.5$, quindi
@@ -23,7 +23,7 @@ Con l'elvis, non cè molto da dire
 ## Acquisire dati
 Ampiezza, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTQ3NDQ2NTEsOTIyMjAzMzU1LC01Nz
+eyJoaXN0b3J5IjpbLTE4MjUxNzM3OTUsOTIyMjAzMzU1LC01Nz
 c5NjQyMywxMDE1NjYzMTQ5LDE3MTIzNjIyNywtMTY0MDkzMTEx
 Nl19
 -->
