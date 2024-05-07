@@ -21,9 +21,9 @@ Con l'elvis, non cè molto da dire
 
 
 ## Acquisire dati
-Ampiezza, 
+Ampiezza,
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MzYyMDQwNiwtMjEwMTE3MzkwMCw5Mj
-IyMDMzNTUsLTU3Nzk2NDIzLDEwMTU2NjMxNDksMTcxMjM2MjI3
-LC0xNjQwOTMxMTE2XX0=
+eyJoaXN0b3J5IjpbLTc5MTg1MTYwNiwtNjQzNjIwNDA2LC0yMT
+AxMTczOTAwLDkyMjIwMzM1NSwtNTc3OTY0MjMsMTAxNTY2MzE0
+OSwxNzEyMzYyMjcsLTE2NDA5MzExMTZdfQ==
 -->
