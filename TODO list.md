@@ -7,7 +7,7 @@ Possiamo fittare questo, oppure la Rg è:
 $$Rg = R \left( \frac{ddp}{V} - 1 \right)$$
 
 ## Settle time per acquisizione multichannel
-Generare un'onda ***sinusoidale*** a 
+Generare un'onda ***sinusoidale*** a 20kHz, acquisire 
 
 ## Controllare ddp
 Confermare che il parametro *amplitude* sia effettivamente Vpp, stessa resistenza di prima, se *amplitude*  = 1 mi aspetto $ddp = 0.5$, quindi
@@ -22,6 +22,6 @@ Con l'elvis, non cè molto da dire
 ## Acquisire dati
 Ampiezza, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NTgyNjgxNiwxMDE1NjYzMTQ5LDE3MT
+eyJoaXN0b3J5IjpbMjEwNzQ4MzY3NSwxMDE1NjYzMTQ5LDE3MT
 IzNjIyNywtMTY0MDkzMTExNl19
 -->
