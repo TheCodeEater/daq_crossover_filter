@@ -19,7 +19,9 @@
 		<Item Name="fit_root.vi" Type="VI" URL="../fit_root.vi"/>
 		<Item Name="frequency_analysis.vi" Type="VI" URL="../frequency_analysis.vi"/>
 		<Item Name="Function_generator.vi" Type="VI" URL="../Function_generator.vi"/>
+		<Item Name="internal_resistance_params.ctl" Type="VI" URL="../internal_resistance_params.ctl"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
+		<Item Name="measure_internal_resistance.vi" Type="VI" URL="../measure_internal_resistance.vi"/>
 		<Item Name="phase_analysis.vi" Type="VI" URL="../phase_analysis.vi"/>
 		<Item Name="Save_data.vi" Type="VI" URL="../Save_data.vi"/>
 		<Item Name="save_xy_cluster.vi" Type="VI" URL="../save_xy_cluster.vi"/>
@@ -491,7 +493,6 @@
 				<Item Name="Write Waveforms to File.vi" Type="VI" URL="/&lt;vilib&gt;/Waveform/WDTFileIO.llb/Write Waveforms to File.vi"/>
 				<Item Name="Write WDT Array Dlog File+.vi" Type="VI" URL="/&lt;vilib&gt;/Waveform/WDTFileIO.llb/Write WDT Array Dlog File+.vi"/>
 			</Item>
-			<Item Name="fit_root.dll" Type="Document" URL="/C/Users/paolo/Documents/Scuola/Triennale/Secondo_anno/lab/circuiti/cmake-build-release-visual-studio-32-bit/fit_root.dll"/>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 			<Item Name="lvStorage.dll" Type="Document" URL="lvStorage.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
