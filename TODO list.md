@@ -18,12 +18,12 @@ $$V = \frac{R}{R + Rg} 0.5$$
 Con l'elvis, non cè molto da dire
 
 ## Controllare che effettivamente il voltaggio salga alla frequenza di cross
-
+Se no non abbiamo capito un ***** :D
 
 ## Acquisire dati
 Ampiezza,
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg2NzgxNDQwLC02NDM2MjA0MDYsLTIxMD
-ExNzM5MDAsOTIyMjAzMzU1LC01Nzc5NjQyMywxMDE1NjYzMTQ5
-LDE3MTIzNjIyNywtMTY0MDkzMTExNl19
+eyJoaXN0b3J5IjpbLTE4ODU5ODcyMiwtNjQzNjIwNDA2LC0yMT
+AxMTczOTAwLDkyMjIwMzM1NSwtNTc3OTY0MjMsMTAxNTY2MzE0
+OSwxNzEyMzYyMjcsLTE2NDA5MzExMTZdfQ==
 -->
