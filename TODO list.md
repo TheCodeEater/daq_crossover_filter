@@ -3,7 +3,7 @@
 ## resistenza interna
 Per misurare la resistenza interna generiamo un'***onda quadra*** 1Vpp ($ddp = 1$ perché se non ricordo male la elvis fa le onde quadre tra 0 e Vpp) e ci mettiamo ai capi di una resistenza $R$ da 50 $\Omega$, detta $Rg$ la resistenza interna del generatore, abbiamo che il voltaggio misurato vale
 $$V = \frac{ddp}{R + Rg} R$$ 
-Possiamo fittare questo, oppure la Rg è:
+Ricavando V con un fit lineare con pendenza nulla la Rg è:
 $$Rg = R \left( \frac{ddp}{V} - 1 \right)$$
 
 ## Settle time per acquisizione multichannel
@@ -23,7 +23,7 @@ Con l'elvis, non cè molto da dire
 ## Acquisire dati
 Ampiezza,
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5MTg1MTYwNiwtNjQzNjIwNDA2LC0yMT
-AxMTczOTAwLDkyMjIwMzM1NSwtNTc3OTY0MjMsMTAxNTY2MzE0
-OSwxNzEyMzYyMjcsLTE2NDA5MzExMTZdfQ==
+eyJoaXN0b3J5IjpbNjg2NzgxNDQwLC02NDM2MjA0MDYsLTIxMD
+ExNzM5MDAsOTIyMjAzMzU1LC01Nzc5NjQyMywxMDE1NjYzMTQ5
+LDE3MTIzNjIyNywtMTY0MDkzMTExNl19
 -->
