@@ -16,7 +16,6 @@
 		</Item>
 		<Item Name="Channel_choiche.ctl" Type="VI" URL="../Channel_choiche.ctl"/>
 		<Item Name="Channels.ctl" Type="VI" URL="../Channels.ctl"/>
-		<Item Name="fit_root.vi" Type="VI" URL="../fit_root.vi"/>
 		<Item Name="frequency_analysis.vi" Type="VI" URL="../frequency_analysis.vi"/>
 		<Item Name="Function_generator.vi" Type="VI" URL="../Function_generator.vi"/>
 		<Item Name="internal_resistance_params.ctl" Type="VI" URL="../internal_resistance_params.ctl"/>
