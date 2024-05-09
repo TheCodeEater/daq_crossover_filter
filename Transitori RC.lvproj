@@ -30,6 +30,7 @@
 		<Item Name="Sweep.ctl" Type="VI" URL="../Sweep.ctl"/>
 		<Item Name="sweep_setup.vi" Type="VI" URL="../sweep_setup.vi"/>
 		<Item Name="Timing Params.ctl" Type="VI" URL="../Timing Params.ctl"/>
+		<Item Name="Untitled 1.vi" Type="VI" URL="../Untitled 1.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
